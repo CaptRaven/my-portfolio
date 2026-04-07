@@ -42,8 +42,8 @@ export const profile = {
     },
   ],
   contact: {
-    email: "hello@example.com",
-    github: "https://github.com/example",
-    linkedin: "https://www.linkedin.com/in/example",
+    email: "ameeningombe@gmail.com",
+    github: "https://github.com/CaptRaven",
+    linkedin: "https://www.linkedin.com/in/muhammad-abubakar-843952237",
   },
 };
